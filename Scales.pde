@@ -3,9 +3,10 @@ void setup() {
   noLoop(); //stops the draw() function from repeating
 }
 void draw() {
-  //your code here
+fill(63,199,232);
+  rect(137,275,125,100);
+  arc(200,280,125,300,PI,TWO_PI);
 }
 void scale(int x, int y) {
-  //your code here
+    
 }
-
